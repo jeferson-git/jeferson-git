@@ -3,4 +3,4 @@ e me interessar pela área de programação, entrei
 recentemente nessa área profissionalmente, desde então
 tenho me dedicado e aprendido muito.
 
-"Conhecimento nunca é bde mais"
+"Conhecimento nunca é de mais"
