@@ -1,6 +1,6 @@
-Olá, meu nome é Jeferson, apesar de a muito tempo admirar
-e me interessar pela área de programação, entrei
-recentemente nessa área profissionalmente, desde então
-tenho me dedicado e aprendido muito.
+Olá, meu nome é Jeferson, a muito tempo admiro
+e me interesso pela área de programação, comecei minha jornada em 2019 no início da pandemia.
+Estou sempre em busca de melhorias, desafios e novas experiências - Sei que com foco e determinação chegarei ao meu objetivo.
+Me torar um Desenvolvedor Especialista.
 
 "Conhecimento nunca é de mais"
